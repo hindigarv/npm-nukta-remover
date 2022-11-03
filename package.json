@@ -3,8 +3,9 @@
   "version": "0.0.1",
   "description": "Remove Nuktas from Devanaagari text.",
   "main": "index.js",
+  "type": "module",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "mocha"
   },
   "repository": {
     "type": "git",
@@ -23,5 +24,8 @@
   "bugs": {
     "url": "https://github.com/hindigarv/npm-nukta-remover/issues"
   },
-  "homepage": "https://github.com/hindigarv/npm-nukta-remover#readme"
+  "homepage": "https://github.com/hindigarv/npm-nukta-remover#readme",
+  "devDependencies": {
+    "mocha": "^10.1.0"
+  }
 }
