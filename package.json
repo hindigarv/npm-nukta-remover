@@ -1,0 +1,27 @@
+{
+  "name": "nukta-remover",
+  "version": "0.0.1",
+  "description": "Remove Nuktas from Devanaagari text.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hindigarv/npm-nukta-remover.git"
+  },
+  "keywords": [
+    "Hindi",
+    "Devanagari",
+    "Devanaagari",
+    "Nukta",
+    "Remover",
+    "HindiGarv"
+  ],
+  "author": "hindi.garv.001@gmail.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hindigarv/npm-nukta-remover/issues"
+  },
+  "homepage": "https://github.com/hindigarv/npm-nukta-remover#readme"
+}
